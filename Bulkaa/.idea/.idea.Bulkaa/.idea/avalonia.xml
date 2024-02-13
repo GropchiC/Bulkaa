@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Bulkaa/AddEd.axaml" value="Bulkaa/Bulkaa.csproj" />
+        <entry key="Bulkaa/App.axaml" value="Bulkaa/Bulkaa.csproj" />
+        <entry key="Bulkaa/MainWindow.axaml" value="Bulkaa/Bulkaa.csproj" />
+        <entry key="Bulkaa/Table.axaml" value="Bulkaa/Bulkaa.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
